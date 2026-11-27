@@ -1,0 +1,34 @@
+{
+  "logrank": {
+    "Contract": {
+      "chi2": 2352.9,
+      "p_value": 0.0
+    },
+    "InternetService": {
+      "chi2": 520.1,
+      "p_value": 0.0
+    },
+    "segment_id": {
+      "chi2": 2593.3,
+      "p_value": 0.0
+    }
+  },
+  "survival_by_contract": {
+    "Month-to-month": {
+      "S(12)": 0.703,
+      "S(24)": 0.586,
+      "S(48)": 0.397
+    },
+    "One year": {
+      "S(12)": 0.991,
+      "S(24)": 0.977,
+      "S(48)": 0.917
+    },
+    "Two year": {
+      "S(12)": 0.999,
+      "S(24)": 0.999,
+      "S(48)": 0.996
+    }
+  },
+  "sumber": "Output sel Kaplan-Meier pada notebook (Tahap 7)"
+}

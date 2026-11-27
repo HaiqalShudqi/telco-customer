@@ -1,0 +1,201 @@
+customerID,segment_name,tenure,MonthlyCharges,Contract,PaymentMethod,InternetService,n_addon_services,churn_prob_cal,revenue_at_risk
+5419-JPRRN,S0: Menengah | tagihan sedang | Kontrak bulanan,1,101.45,Month-to-month,Electronic check,Fiber optic,3,1.0,1217.4
+7216-EWTRS,S0: Menengah | tagihan sedang | Kontrak bulanan,1,100.8,Month-to-month,Electronic check,Fiber optic,3,1.0,1209.6
+0295-PPHDO,S0: Menengah | tagihan sedang | Kontrak bulanan,1,95.45,Month-to-month,Electronic check,Fiber optic,2,1.0,1145.4
+5178-LMXOP,S0: Menengah | tagihan sedang | Kontrak bulanan,1,95.1,Month-to-month,Electronic check,Fiber optic,2,1.0,1141.1999999999998
+9300-AGZNL,S0: Menengah | tagihan sedang | Kontrak bulanan,1,94.0,Month-to-month,Electronic check,Fiber optic,2,1.0,1128.0
+1400-MMYXY,S0: Menengah | tagihan sedang | Kontrak bulanan,3,105.9,Month-to-month,Electronic check,Fiber optic,4,0.8853211,1125.0660293340684
+9497-QCMMS,S0: Menengah | tagihan sedang | Kontrak bulanan,1,93.55,Month-to-month,Electronic check,Fiber optic,2,1.0,1122.6
+3389-YGYAI,S0: Menengah | tagihan sedang | Kontrak bulanan,8,105.5,Month-to-month,Electronic check,Fiber optic,4,0.8853211,1120.816488146782
+6496-SLWHQ,S0: Menengah | tagihan sedang | Kontrak bulanan,3,105.0,Month-to-month,Electronic check,Fiber optic,4,0.8853211,1115.504561662674
+1875-QIVME,S0: Menengah | tagihan sedang | Kontrak bulanan,2,104.4,Month-to-month,Electronic check,Fiber optic,4,0.8853211,1109.1302498817445
+7181-BQYBV,S0: Menengah | tagihan sedang | Kontrak bulanan,1,102.45,Month-to-month,Electronic check,Fiber optic,4,0.8853211,1088.4137365937233
+8775-LHDJH,S0: Menengah | tagihan sedang | Kontrak bulanan,1,90.6,Month-to-month,Electronic check,Fiber optic,2,1.0,1087.1999999999998
+8884-ADFVN,S0: Menengah | tagihan sedang | Kontrak bulanan,7,101.95,Month-to-month,Electronic check,Fiber optic,3,0.8853211,1083.1018101096154
+3902-FOIGH,S0: Menengah | tagihan sedang | Kontrak bulanan,12,101.35,Month-to-month,Electronic check,Fiber optic,3,0.8853211,1076.7274983286857
+6023-YEBUP,S0: Menengah | tagihan sedang | Kontrak bulanan,3,100.95,Month-to-month,Electronic check,Fiber optic,3,0.8853211,1072.4779571413994
+4822-RVYBB,S0: Menengah | tagihan sedang | Kontrak bulanan,8,100.6,Month-to-month,Electronic check,Fiber optic,3,0.8853211,1068.7596086025237
+9681-OXGVC,S0: Menengah | tagihan sedang | Kontrak bulanan,5,100.5,Month-to-month,Electronic check,Fiber optic,3,0.8853211,1067.6972233057022
+3178-FESZO,S0: Menengah | tagihan sedang | Kontrak bulanan,1,100.25,Month-to-month,Credit card (automatic),Fiber optic,3,0.8853211,1065.0412600636482
+2656-TABEH,S0: Menengah | tagihan sedang | Kontrak bulanan,4,100.2,Month-to-month,Electronic check,Fiber optic,3,0.8853211,1064.5100674152375
+0107-YHINA,S0: Menengah | tagihan sedang | Kontrak bulanan,1,99.75,Month-to-month,Electronic check,Fiber optic,3,0.8853211,1059.7293335795403
+9305-CDSKC,S0: Menengah | tagihan sedang | Kontrak bulanan,8,99.65,Month-to-month,Electronic check,Fiber optic,3,0.8853211,1058.6669482827187
+2265-CYWIV,S0: Menengah | tagihan sedang | Kontrak bulanan,4,99.6,Month-to-month,Electronic check,Fiber optic,3,0.8853211,1058.1357556343078
+2012-NWRPA,S0: Menengah | tagihan sedang | Kontrak bulanan,11,99.55,Month-to-month,Electronic check,Fiber optic,3,0.8853211,1057.604562985897
+0897-FEGMU,S0: Menengah | tagihan sedang | Kontrak bulanan,11,99.5,Month-to-month,Electronic check,Fiber optic,3,0.8853211,1057.0733703374863
+7450-NWRTR,S0: Menengah | tagihan sedang | Kontrak bulanan,12,99.45,Month-to-month,Electronic check,Fiber optic,3,0.8853211,1056.5421776890755
+6861-XWTWQ,S0: Menengah | tagihan sedang | Kontrak bulanan,7,99.25,Month-to-month,Electronic check,Fiber optic,3,0.8853211,1054.4174070954323
+2446-BEGGB,S0: Menengah | tagihan sedang | Kontrak bulanan,6,98.25,Month-to-month,Electronic check,Fiber optic,3,0.8853211,1043.7935541272163
+2027-FECZV,S0: Menengah | tagihan sedang | Kontrak bulanan,12,106.7,Month-to-month,Electronic check,Fiber optic,4,0.8031496,1028.3527234554292
+9057-SIHCH,S0: Menengah | tagihan sedang | Kontrak bulanan,3,96.6,Month-to-month,Electronic check,Fiber optic,2,0.8853211,1026.26419672966
+3158-MOERK,S0: Menengah | tagihan sedang | Kontrak bulanan,2,96.0,Month-to-month,Electronic check,Fiber optic,2,0.8853211,1019.8898849487305
+0754-UKWQP,S0: Menengah | tagihan sedang | Kontrak bulanan,2,95.85,Month-to-month,Electronic check,Fiber optic,3,0.8853211,1018.2963070034979
+6356-ELRKD,S0: Menengah | tagihan sedang | Kontrak bulanan,1,95.6,Month-to-month,Electronic check,Fiber optic,3,0.8853211,1015.6403437614439
+5052-PNLOS,S0: Menengah | tagihan sedang | Kontrak bulanan,3,105.35,Month-to-month,Bank transfer (automatic),Fiber optic,4,0.8031496,1015.3417002439497
+4587-VVTOX,S0: Menengah | tagihan sedang | Kontrak bulanan,6,105.3,Month-to-month,Electronic check,Fiber optic,4,0.8031496,1014.8598104953766
+0564-JJHGS,S0: Menengah | tagihan sedang | Kontrak bulanan,9,95.5,Month-to-month,Electronic check,Fiber optic,2,0.8853211,1014.5779584646225
+4929-XIHVW,S0: Menengah | tagihan sedang | Kontrak bulanan,2,95.5,Month-to-month,Credit card (automatic),Fiber optic,3,0.8853211,1014.5779584646225
+8098-LLAZX,S0: Menengah | tagihan sedang | Kontrak bulanan,4,95.45,Month-to-month,Electronic check,Fiber optic,2,0.8853211,1014.0467658162117
+2660-EMUBI,S0: Menengah | tagihan sedang | Kontrak bulanan,10,95.35,Month-to-month,Electronic check,Fiber optic,2,0.8853211,1012.9843805193899
+3049-SOLAY,S0: Menengah | tagihan sedang | Kontrak bulanan,3,95.2,Month-to-month,Electronic check,Fiber optic,2,0.8853211,1011.3908025741578
+7851-WZEKY,S0: Menengah | tagihan sedang | Kontrak bulanan,2,95.15,Month-to-month,Electronic check,Fiber optic,2,0.8853211,1010.8596099257471
+9221-OTIVJ,S0: Menengah | tagihan sedang | Kontrak bulanan,14,104.85,Month-to-month,Electronic check,Fiber optic,4,0.8031496,1010.5228027582167
+0684-AOSIH,S0: Menengah | tagihan sedang | Kontrak bulanan,1,95.0,Month-to-month,Electronic check,Fiber optic,3,0.8853211,1009.2660319805145
+5150-ITWWB,S0: Menengah | tagihan sedang | Kontrak bulanan,3,94.85,Month-to-month,Electronic check,Fiber optic,2,0.8853211,1007.6724540352819
+4910-GMJOT,S0: Menengah | tagihan sedang | Kontrak bulanan,1,94.6,Month-to-month,Electronic check,Fiber optic,2,0.8853211,1005.016490793228
+5567-WSELE,S0: Menengah | tagihan sedang | Kontrak bulanan,3,94.6,Month-to-month,Electronic check,Fiber optic,2,0.8853211,1005.016490793228
+9223-UCPVT,S0: Menengah | tagihan sedang | Kontrak bulanan,1,94.4,Month-to-month,Electronic check,Fiber optic,3,0.8853211,1002.8917201995852
+1374-DMZUI,S0: Menengah | tagihan sedang | Kontrak bulanan,4,94.3,Month-to-month,Electronic check,Fiber optic,2,0.8853211,1001.8293349027633
+2720-WGKHP,S0: Menengah | tagihan sedang | Kontrak bulanan,2,94.0,Month-to-month,Electronic check,Fiber optic,2,0.8853211,998.6421790122986
+7024-OHCCK,S0: Menengah | tagihan sedang | Kontrak bulanan,2,93.85,Month-to-month,Electronic check,Fiber optic,2,0.8853211,997.048601067066
+4424-TKOPW,S0: Menengah | tagihan sedang | Kontrak bulanan,2,93.85,Month-to-month,Electronic check,Fiber optic,2,0.8853211,997.048601067066
+8149-RSOUN,S0: Menengah | tagihan sedang | Kontrak bulanan,1,93.85,Month-to-month,Electronic check,Fiber optic,2,0.8853211,997.048601067066
+6521-YYTYI,S0: Menengah | tagihan sedang | Kontrak bulanan,1,93.3,Month-to-month,Electronic check,Fiber optic,2,0.8853211,991.2054819345474
+6688-UZPWD,S0: Menengah | tagihan sedang | Kontrak bulanan,11,102.0,Month-to-month,Electronic check,Fiber optic,3,0.8031496,983.0550870895386
+0702-PGIBZ,S0: Menengah | tagihan sedang | Kontrak bulanan,4,101.7,Month-to-month,Electronic check,Fiber optic,3,0.8031496,980.1637485980988
+5299-SJCZT,S0: Menengah | tagihan sedang | Kontrak bulanan,3,101.55,Month-to-month,Bank transfer (automatic),Fiber optic,3,0.8031496,978.7180793523788
+7234-FECYN,S0: Menengah | tagihan sedang | Kontrak bulanan,8,101.35,Month-to-month,Electronic check,Fiber optic,3,0.8031496,976.7905203580855
+4927-WWOOZ,S0: Menengah | tagihan sedang | Kontrak bulanan,2,91.45,Month-to-month,Electronic check,Fiber optic,2,0.8853211,971.551353943348
+9546-CQJSU,S0: Menengah | tagihan sedang | Kontrak bulanan,2,91.4,Month-to-month,Electronic check,Fiber optic,2,0.8853211,971.0201612949373
+4078-SAYYN,S0: Menengah | tagihan sedang | Kontrak bulanan,11,100.75,Month-to-month,Electronic check,Fiber optic,3,0.8031496,971.007843375206
+3988-RQIXO,S0: Menengah | tagihan sedang | Kontrak bulanan,1,91.3,Month-to-month,Electronic check,Fiber optic,2,0.8853211,969.9577759981155
+2968-SSGAA,S0: Menengah | tagihan sedang | Kontrak bulanan,10,100.6,Month-to-month,Electronic check,Fiber optic,3,0.8031496,969.5621741294859
+0781-LKXBR,S0: Menengah | tagihan sedang | Kontrak bulanan,9,100.5,Month-to-month,Electronic check,Fiber optic,3,0.8031496,968.5983946323395
+9725-SCPZG,S0: Menengah | tagihan sedang | Kontrak bulanan,1,90.85,Month-to-month,Electronic check,Fiber optic,2,0.8853211,965.1770421624182
+5167-ZFFMM,S0: Menengah | tagihan sedang | Kontrak bulanan,1,90.85,Month-to-month,Credit card (automatic),Fiber optic,2,0.8853211,965.1770421624182
+2725-KXXWT,S0: Menengah | tagihan sedang | Kontrak bulanan,1,90.75,Month-to-month,Electronic check,Fiber optic,2,0.8853211,964.1146568655968
+3473-XIIIT,S0: Menengah | tagihan sedang | Kontrak bulanan,16,100.0,Month-to-month,Electronic check,Fiber optic,3,0.8031496,963.7794971466064
+7274-RTAPZ,S0: Menengah | tagihan sedang | Kontrak bulanan,1,90.55,Month-to-month,Electronic check,Fiber optic,2,0.8853211,961.9898862719535
+2034-GDRCN,S0: Menengah | tagihan sedang | Kontrak bulanan,2,90.4,Month-to-month,Electronic check,Fiber optic,2,0.8853211,960.3963083267214
+1941-HOSAM,S0: Menengah | tagihan sedang | Kontrak bulanan,1,90.1,Month-to-month,Electronic check,Fiber optic,2,0.8853211,957.2091524362562
+3027-ZTDHO,S0: Menengah | tagihan sedang | Kontrak bulanan,1,89.9,Month-to-month,Electronic check,Fiber optic,2,0.8853211,955.0843818426134
+1455-UGQVH,S0: Menengah | tagihan sedang | Kontrak bulanan,10,98.5,Month-to-month,Electronic check,Fiber optic,3,0.8031496,949.3228046894073
+2081-VEYEH,S0: Menengah | tagihan sedang | Kontrak bulanan,3,107.95,Month-to-month,Electronic check,Fiber optic,5,0.73239434,948.743624997139
+5760-IFJOZ,S0: Menengah | tagihan sedang | Kontrak bulanan,3,107.95,Month-to-month,Mailed check,Fiber optic,4,0.73239434,948.743624997139
+6108-OQZDQ,S0: Menengah | tagihan sedang | Kontrak bulanan,4,97.95,Month-to-month,Electronic check,Fiber optic,3,0.8031496,944.022017455101
+3606-TWKGI,S0: Menengah | tagihan sedang | Kontrak bulanan,13,106.9,Month-to-month,Electronic check,Fiber optic,4,0.73239434,939.5154563426972
+6734-GMPVK,S0: Menengah | tagihan sedang | Kontrak bulanan,5,105.3,Month-to-month,Electronic check,Fiber optic,4,0.73239434,925.4534850597381
+7548-SEPYI,S0: Menengah | tagihan sedang | Kontrak bulanan,5,96.25,Month-to-month,Electronic check,Fiber optic,3,0.8,924.0000137686729
+1393-IMKZG,S0: Menengah | tagihan sedang | Kontrak bulanan,1,95.85,Month-to-month,Electronic check,Fiber optic,3,0.8031496,923.7826480150221
+3319-DWOEP,S0: Menengah | tagihan sedang | Kontrak bulanan,6,95.75,Month-to-month,Electronic check,Fiber optic,3,0.8031496,922.8188685178757
+6857-VWJDT,S0: Menengah | tagihan sedang | Kontrak bulanan,1,95.65,Month-to-month,Mailed check,Fiber optic,2,0.8031496,921.8550890207292
+3643-AHCFP,S0: Menengah | tagihan sedang | Kontrak bulanan,7,95.6,Month-to-month,Bank transfer (automatic),Fiber optic,2,0.8031496,921.3731992721556
+3320-VEOYC,S0: Menengah | tagihan sedang | Kontrak bulanan,14,95.6,Month-to-month,Electronic check,Fiber optic,2,0.8031496,921.3731992721556
+0916-QOFDP,S0: Menengah | tagihan sedang | Kontrak bulanan,14,95.8,Month-to-month,Electronic check,Fiber optic,2,0.8,919.6800137042999
+9061-TIHDA,S0: Menengah | tagihan sedang | Kontrak bulanan,13,95.25,Month-to-month,Electronic check,Fiber optic,2,0.8031496,917.9999710321426
+9944-HKVVB,S0: Menengah | tagihan sedang | Kontrak bulanan,3,95.1,Month-to-month,Electronic check,Fiber optic,3,0.8031496,916.5543017864226
+3793-MMFUH,S0: Menengah | tagihan sedang | Kontrak bulanan,13,95.05,Month-to-month,Electronic check,Fiber optic,2,0.8031496,916.0724120378494
+7398-SKNQZ,S0: Menengah | tagihan sedang | Kontrak bulanan,3,94.9,Month-to-month,Electronic check,Fiber optic,2,0.8031496,914.6267427921297
+7225-CBZPL,S0: Menengah | tagihan sedang | Kontrak bulanan,17,94.8,Month-to-month,Electronic check,Fiber optic,2,0.8031496,913.6629632949829
+6350-XFYGW,S0: Menengah | tagihan sedang | Kontrak bulanan,4,94.75,Month-to-month,Electronic check,Fiber optic,3,0.8031496,913.1810735464096
+7943-RQCHR,S0: Menengah | tagihan sedang | Kontrak bulanan,9,94.75,Month-to-month,Electronic check,Fiber optic,2,0.8031496,913.1810735464096
+4192-GORJT,S0: Menengah | tagihan sedang | Kontrak bulanan,5,94.45,Month-to-month,Electronic check,Fiber optic,3,0.8031496,910.2897350549698
+3006-XIMLN,S0: Menengah | tagihan sedang | Kontrak bulanan,2,94.2,Month-to-month,Bank transfer (automatic),Fiber optic,2,0.8031496,907.8802863121033
+8161-QYMTT,S0: Menengah | tagihan sedang | Kontrak bulanan,7,94.1,Month-to-month,Electronic check,Fiber optic,2,0.8031496,906.9165068149565
+2982-VPSGI,S0: Menengah | tagihan sedang | Kontrak bulanan,11,94.0,Month-to-month,Electronic check,Fiber optic,2,0.8031496,905.9527273178101
+4626-GYCZP,S0: Menengah | tagihan sedang | Kontrak bulanan,7,93.85,Month-to-month,Electronic check,Fiber optic,2,0.8031496,904.50705807209
+5519-NPHVG,S0: Menengah | tagihan sedang | Kontrak bulanan,12,94.2,Month-to-month,Electronic check,Fiber optic,2,0.8,904.3200134754181
+3292-PBZEJ,S2: Loyal | tagihan tinggi | Kontrak 2 thn,11,111.4,Month-to-month,Electronic check,Fiber optic,5,0.6721311,898.5048827648164
+2462-XIIJB,S0: Menengah | tagihan sedang | Kontrak bulanan,5,92.5,Month-to-month,Electronic check,Fiber optic,2,0.8031496,891.496034860611
+0680-DFNNY,S0: Menengah | tagihan sedang | Kontrak bulanan,15,101.1,Month-to-month,Electronic check,Fiber optic,3,0.73239434,888.5408104419707
+4145-UQXUQ,S0: Menengah | tagihan sedang | Kontrak bulanan,8,92.1,Month-to-month,Electronic check,Fiber optic,3,0.8031496,887.6409168720244
+3318-NMQXL,S0: Menengah | tagihan sedang | Kontrak bulanan,3,92.0,Month-to-month,Electronic check,Fiber optic,2,0.8031496,886.6771373748779
+4132-KALRO,S0: Menengah | tagihan sedang | Kontrak bulanan,4,100.85,Month-to-month,Mailed check,Fiber optic,3,0.73239434,886.3436274290084
+8510-AWCXC,S0: Menengah | tagihan sedang | Kontrak bulanan,13,100.8,Month-to-month,Electronic check,Fiber optic,3,0.73239434,885.904190826416
+6615-NGGZJ,S0: Menengah | tagihan sedang | Kontrak bulanan,14,100.55,Month-to-month,Electronic check,Fiber optic,3,0.73239434,883.7070078134536
+6892-EZDTG,S0: Menengah | tagihan sedang | Kontrak bulanan,4,91.65,Month-to-month,Electronic check,Fiber optic,2,0.8031496,883.303909134865
+5299-RULOA,S0: Menengah | tagihan sedang | Kontrak bulanan,10,100.25,Month-to-month,Electronic check,Fiber optic,3,0.73239434,881.0703881978989
+8414-MYSHR,S0: Menengah | tagihan sedang | Kontrak bulanan,5,91.4,Month-to-month,Electronic check,Fiber optic,2,0.8031496,880.8944603919985
+2612-RANWT,S0: Menengah | tagihan sedang | Kontrak bulanan,12,100.15,Month-to-month,Bank transfer (automatic),Fiber optic,3,0.73239434,880.191514992714
+9094-AZPHK,S0: Menengah | tagihan sedang | Kontrak bulanan,15,100.15,Month-to-month,Electronic check,Fiber optic,3,0.73239434,880.191514992714
+3811-VBYBZ,S0: Menengah | tagihan sedang | Kontrak bulanan,7,99.8,Month-to-month,Electronic check,Fiber optic,3,0.73239434,877.1154587745666
+6210-KBBPI,S0: Menengah | tagihan sedang | Kontrak bulanan,9,99.45,Month-to-month,Credit card (automatic),Fiber optic,3,0.73239434,874.0394025564194
+5797-APWZC,S0: Menengah | tagihan sedang | Kontrak bulanan,1,90.6,Month-to-month,Electronic check,Fiber optic,2,0.8031496,873.1842244148253
+7294-TMAOP,S0: Menengah | tagihan sedang | Kontrak bulanan,1,90.55,Month-to-month,Electronic check,Fiber optic,2,0.8031496,872.7023346662521
+7145-FEJWU,S0: Menengah | tagihan sedang | Kontrak bulanan,12,105.3,Month-to-month,Electronic check,Fiber optic,4,0.6721311,849.3048846960068
+8245-UMPYT,S0: Menengah | tagihan sedang | Kontrak bulanan,16,96.4,Month-to-month,Electronic check,Fiber optic,2,0.73239434,847.2337697982789
+5565-FILXA,S0: Menengah | tagihan sedang | Kontrak bulanan,16,96.15,Month-to-month,Electronic check,Fiber optic,2,0.73239434,845.0365867853166
+7526-BEZQB,S0: Menengah | tagihan sedang | Kontrak bulanan,12,96.05,Month-to-month,Electronic check,Fiber optic,2,0.73239434,844.1577135801315
+3992-YWPKO,S0: Menengah | tagihan sedang | Kontrak bulanan,6,109.9,Month-to-month,Credit card (automatic),Fiber optic,5,0.6369231,839.9741509437562
+5293-WXJAK,S0: Menengah | tagihan sedang | Kontrak bulanan,11,104.05,Month-to-month,Bank transfer (automatic),Fiber optic,4,0.6721311,839.2229178786278
+8357-EQXFO,S0: Menengah | tagihan sedang | Kontrak bulanan,7,95.35,Month-to-month,Electronic check,Fiber optic,3,0.73239434,838.0056011438369
+6328-ZPBGN,S0: Menengah | tagihan sedang | Kontrak bulanan,11,95.15,Month-to-month,Bank transfer (automatic),Fiber optic,2,0.73239434,836.2478547334672
+5349-IECLD,S0: Menengah | tagihan sedang | Kontrak bulanan,2,94.95,Month-to-month,Electronic check,Fiber optic,3,0.73239434,834.4901083230973
+6892-XPFPU,S0: Menengah | tagihan sedang | Kontrak bulanan,24,104.25,Month-to-month,Electronic check,Fiber optic,4,0.6666667,834.0000248551369
+3387-VATUS,S0: Menengah | tagihan sedang | Kontrak bulanan,5,94.85,Month-to-month,Bank transfer (automatic),Fiber optic,2,0.73239434,833.6112351179122
+0880-TKATG,S0: Menengah | tagihan sedang | Kontrak bulanan,4,101.15,Month-to-month,Electronic check,Fiber optic,3,0.6721311,815.8327548623087
+6326-MTTXK,S0: Menengah | tagihan sedang | Kontrak bulanan,8,100.85,Month-to-month,Electronic check,Fiber optic,3,0.6721311,813.4130828261374
+8118-LSUEL,S0: Menengah | tagihan sedang | Kontrak bulanan,23,106.4,Month-to-month,Electronic check,Fiber optic,4,0.6369231,813.22338180542
+0337-CNPZE,S2: Loyal | tagihan tinggi | Kontrak 2 thn,41,106.3,Month-to-month,Electronic check,Fiber optic,4,0.6369231,812.4590741157531
+3957-LXOLK,S2: Loyal | tagihan tinggi | Kontrak 2 thn,28,106.15,Month-to-month,Electronic check,Fiber optic,4,0.6369231,811.3126125812531
+9330-IJWIO,S0: Menengah | tagihan sedang | Kontrak bulanan,13,100.35,Month-to-month,Electronic check,Fiber optic,3,0.6721311,809.3802960991858
+3621-CEOVK,S0: Menengah | tagihan sedang | Kontrak bulanan,14,100.2,Month-to-month,Electronic check,Fiber optic,3,0.6721311,808.1704600811005
+8868-WOZGU,S2: Loyal | tagihan tinggi | Kontrak 2 thn,28,105.7,Month-to-month,Electronic check,Fiber optic,4,0.6369231,807.8732279777528
+5419-CONWX,S0: Menengah | tagihan sedang | Kontrak bulanan,4,99.8,Month-to-month,Credit card (automatic),Fiber optic,4,0.6721311,804.9442306995392
+0771-WLCLA,S2: Loyal | tagihan tinggi | Kontrak 2 thn,16,112.95,Month-to-month,Electronic check,Fiber optic,5,0.59090906,800.918145096302
+1583-IHQZE,S2: Loyal | tagihan tinggi | Kontrak 2 thn,12,112.95,Month-to-month,Mailed check,Fiber optic,5,0.59090906,800.918145096302
+4445-ZJNMU,S0: Menengah | tagihan sedang | Kontrak bulanan,9,99.3,Month-to-month,Credit card (automatic),Fiber optic,3,0.6721311,800.9114439725876
+9851-QXEEQ,S2: Loyal | tagihan tinggi | Kontrak 2 thn,41,104.7,Month-to-month,Electronic check,Fiber optic,4,0.6369231,800.2301510810853
+8625-AZYZY,S0: Menengah | tagihan sedang | Kontrak bulanan,24,104.65,Month-to-month,Electronic check,Fiber optic,4,0.6369231,799.8479972362519
+5995-SNNEW,S0: Menengah | tagihan sedang | Kontrak bulanan,23,104.45,Month-to-month,Electronic check,Fiber optic,4,0.6369231,798.3193818569184
+7330-WZLNC,S0: Menengah | tagihan sedang | Kontrak bulanan,5,90.8,Month-to-month,Electronic check,Fiber optic,2,0.73239434,798.0168703079223
+2080-CAZNM,S2: Loyal | tagihan tinggi | Kontrak 2 thn,41,104.4,Month-to-month,Electronic check,Fiber optic,4,0.6369231,797.937228012085
+5956-YHHRX,S0: Menengah | tagihan sedang | Kontrak bulanan,21,104.35,Month-to-month,Electronic check,Fiber optic,4,0.6369231,797.5550741672515
+1075-BGWOH,S0: Menengah | tagihan sedang | Kontrak bulanan,16,98.75,Month-to-month,Electronic check,Fiber optic,3,0.6721311,796.4753785729408
+9874-QLCLH,S0: Menengah | tagihan sedang | Kontrak bulanan,17,104.2,Month-to-month,Electronic check,Fiber optic,4,0.6369231,796.4086126327516
+9172-ANCRX,S0: Menengah | tagihan sedang | Kontrak bulanan,10,98.7,Month-to-month,Electronic check,Fiber optic,3,0.6721311,796.0720999002457
+7938-OUHIO,S0: Menengah | tagihan sedang | Kontrak bulanan,3,98.7,Month-to-month,Electronic check,Fiber optic,4,0.6721311,796.0720999002457
+8313-NDOIA,S0: Menengah | tagihan sedang | Kontrak bulanan,24,104.15,Month-to-month,Electronic check,Fiber optic,4,0.6369231,796.0264587879182
+2107-FBPTK,S2: Loyal | tagihan tinggi | Kontrak 2 thn,30,104.1,Month-to-month,Electronic check,Fiber optic,4,0.6369231,795.6443049430846
+2369-UAPKZ,S0: Menengah | tagihan sedang | Kontrak bulanan,5,104.1,Month-to-month,Mailed check,Fiber optic,4,0.6369231,795.6443049430846
+0115-TFERT,S2: Loyal | tagihan tinggi | Kontrak 2 thn,21,111.2,Month-to-month,Electronic check,Fiber optic,5,0.59574467,794.9616868972779
+3001-UNBTL,S0: Menengah | tagihan sedang | Kontrak bulanan,29,103.95,Month-to-month,Electronic check,Fiber optic,3,0.6369231,794.4978434085847
+1450-GALXR,S0: Menengah | tagihan sedang | Kontrak bulanan,10,98.5,Month-to-month,Electronic check,Fiber optic,3,0.6721311,794.458985209465
+5519-YLDGW,S0: Menengah | tagihan sedang | Kontrak bulanan,21,103.9,Month-to-month,Electronic check,Fiber optic,4,0.6369231,794.1156895637513
+6969-MVBAI,S0: Menengah | tagihan sedang | Kontrak bulanan,9,90.1,Month-to-month,Electronic check,Fiber optic,2,0.73239434,791.8647578716277
+2454-RPBRZ,S0: Menengah | tagihan sedang | Kontrak bulanan,12,98.1,Month-to-month,Electronic check,Fiber optic,3,0.6721311,791.2327558279036
+0655-RBDUG,S0: Menengah | tagihan sedang | Kontrak bulanan,7,98.05,Month-to-month,Bank transfer (automatic),Fiber optic,3,0.6721311,790.8294771552086
+4298-OYIFC,S0: Menengah | tagihan sedang | Kontrak bulanan,15,103.45,Month-to-month,Electronic check,Fiber optic,4,0.6369231,790.676304960251
+7089-IVVAZ,S0: Menengah | tagihan sedang | Kontrak bulanan,8,103.35,Month-to-month,Bank transfer (automatic),Fiber optic,4,0.6369231,789.911997270584
+8168-UQWWF,S0: Menengah | tagihan sedang | Kontrak bulanan,11,97.85,Month-to-month,Bank transfer (automatic),Fiber optic,3,0.6721311,789.2163624644278
+2018-PZKMU,S0: Menengah | tagihan sedang | Kontrak bulanan,9,103.1,Month-to-month,Electronic check,Fiber optic,4,0.6369231,788.0012280464172
+9547-ITEFG,S0: Menengah | tagihan sedang | Kontrak bulanan,9,102.6,Month-to-month,Credit card (automatic),Fiber optic,4,0.6369231,784.1796895980834
+0365-BZUWY,S0: Menengah | tagihan sedang | Kontrak bulanan,17,102.55,Month-to-month,Electronic check,Fiber optic,4,0.6369231,783.79753575325
+0871-URUWO,S0: Menengah | tagihan sedang | Kontrak bulanan,13,102.25,Month-to-month,Credit card (automatic),Fiber optic,3,0.6369231,781.5046126842499
+9290-SHCMB,S0: Menengah | tagihan sedang | Kontrak bulanan,13,96.85,Month-to-month,Electronic check,Fiber optic,3,0.6721311,781.1507890105246
+1465-VINDH,S0: Menengah | tagihan sedang | Kontrak bulanan,10,102.1,Month-to-month,Credit card (automatic),Fiber optic,4,0.6369231,780.3581511497497
+3629-ZNKXA,S0: Menengah | tagihan sedang | Kontrak bulanan,17,101.8,Month-to-month,Electronic check,Fiber optic,4,0.6369231,778.0652280807494
+8118-TJAFG,S0: Menengah | tagihan sedang | Kontrak bulanan,9,101.5,Month-to-month,Electronic check,Fiber optic,4,0.6369231,775.7723050117493
+2180-DXNEG,S0: Menengah | tagihan sedang | Kontrak bulanan,12,96.0,Month-to-month,Electronic check,Fiber optic,3,0.6721311,774.295051574707
+4597-NUCQV,S0: Menengah | tagihan sedang | Kontrak bulanan,24,101.25,Month-to-month,Electronic check,Fiber optic,3,0.6369231,773.8615357875824
+3663-MITLP,S0: Menengah | tagihan sedang | Kontrak bulanan,15,101.25,Month-to-month,Electronic check,Fiber optic,4,0.6369231,773.8615357875824
+8413-VONUO,S0: Menengah | tagihan sedang | Kontrak bulanan,2,95.65,Month-to-month,Electronic check,Fiber optic,3,0.6721311,771.4721008658411
+7392-YYPYJ,S0: Menengah | tagihan sedang | Kontrak bulanan,22,100.65,Month-to-month,Electronic check,Fiber optic,3,0.6369231,769.275689649582
+7029-RPUAV,S0: Menengah | tagihan sedang | Kontrak bulanan,17,100.45,Month-to-month,Credit card (automatic),Fiber optic,3,0.6369231,767.7470742702485
+1641-RQDAY,S0: Menengah | tagihan sedang | Kontrak bulanan,32,100.4,Month-to-month,Electronic check,Fiber optic,3,0.6369231,767.3649204254151
+0722-SVSFK,S0: Menengah | tagihan sedang | Kontrak bulanan,7,100.4,Month-to-month,Electronic check,Fiber optic,4,0.6369231,767.3649204254151
+5649-ANRML,S0: Menengah | tagihan sedang | Kontrak bulanan,2,95.1,Month-to-month,Credit card (automatic),Fiber optic,4,0.6721311,767.036035466194
+0094-OIFMO,S0: Menengah | tagihan sedang | Kontrak bulanan,11,95.0,Month-to-month,Electronic check,Fiber optic,3,0.6721311,766.2294781208038
+3393-FMZPV,S0: Menengah | tagihan sedang | Kontrak bulanan,25,100.25,Month-to-month,Electronic check,Fiber optic,3,0.6369231,766.2184588909149
+7379-FNIUJ,S0: Menengah | tagihan sedang | Kontrak bulanan,2,100.2,Month-to-month,Electronic check,Fiber optic,4,0.6369231,765.8363050460816
+2754-SDJRD,S0: Menengah | tagihan sedang | Kontrak bulanan,8,100.15,Month-to-month,Credit card (automatic),Fiber optic,3,0.6369231,765.4541512012482
+7209-JCUDS,S0: Menengah | tagihan sedang | Kontrak bulanan,10,94.9,Month-to-month,Electronic check,Fiber optic,3,0.6721311,765.4229207754137
+3045-XETSH,S0: Menengah | tagihan sedang | Kontrak bulanan,10,94.85,Month-to-month,Electronic check,Fiber optic,3,0.6721311,765.0196421027182
+8443-WVPSS,S0: Menengah | tagihan sedang | Kontrak bulanan,10,99.85,Month-to-month,Electronic check,Fiber optic,4,0.6369231,763.1612281322479
+0420-HLGXF,S0: Menengah | tagihan sedang | Kontrak bulanan,39,99.75,Month-to-month,Electronic check,Fiber optic,3,0.6369231,762.3969204425812
+6215-NQCPY,S0: Menengah | tagihan sedang | Kontrak bulanan,15,99.7,Month-to-month,Electronic check,Fiber optic,3,0.6369231,762.0147665977479
+6543-XRMYR,S0: Menengah | tagihan sedang | Kontrak bulanan,30,99.7,Month-to-month,Electronic check,Fiber optic,3,0.6369231,762.0147665977479
+1960-UYCNN,S0: Menengah | tagihan sedang | Kontrak bulanan,10,95.25,Month-to-month,Electronic check,Fiber optic,3,0.6666667,762.0000227093697
+5698-BQJOH,S0: Menengah | tagihan sedang | Kontrak bulanan,9,94.4,Month-to-month,Electronic check,Fiber optic,2,0.6721311,761.3901340484621
+4009-ALQFH,S0: Menengah | tagihan sedang | Kontrak bulanan,25,99.5,Month-to-month,Electronic check,Fiber optic,4,0.6369231,760.4861512184143
+5380-WJKOV,S2: Loyal | tagihan tinggi | Kontrak 2 thn,34,106.35,Month-to-month,Electronic check,Fiber optic,4,0.59574467,760.2893471360205
+7218-HKQFK,S0: Menengah | tagihan sedang | Kontrak bulanan,2,94.2,Month-to-month,Electronic check,Fiber optic,3,0.6721311,759.7770193576813
+8087-LGYHQ,S0: Menengah | tagihan sedang | Kontrak bulanan,9,94.05,Month-to-month,Electronic check,Fiber optic,3,0.6721311,758.5671833395958
+1309-BXVOQ,S0: Menengah | tagihan sedang | Kontrak bulanan,21,106.1,Month-to-month,Electronic check,Fiber optic,4,0.59574467,758.5021131277083
+1567-DSCIC,S0: Menengah | tagihan sedang | Kontrak bulanan,8,94.0,Month-to-month,Electronic check,Fiber optic,3,0.6721311,758.1639046669006
+0325-XBFAC,S0: Menengah | tagihan sedang | Kontrak bulanan,8,94.7,Month-to-month,Electronic check,Fiber optic,3,0.6666667,757.6000225782395
+6583-KQJLK,S0: Menengah | tagihan sedang | Kontrak bulanan,15,94.65,Month-to-month,Electronic check,Fiber optic,3,0.6666667,757.2000225663186
+6956-SMUCM,S0: Menengah | tagihan sedang | Kontrak bulanan,3,99.0,Month-to-month,Credit card (automatic),Fiber optic,4,0.6369231,756.6646127700806
+1104-TNLZA,S2: Loyal | tagihan tinggi | Kontrak 2 thn,28,105.8,Month-to-month,Electronic check,Fiber optic,4,0.59574467,756.3574323177337
+8111-SLLHI,S2: Loyal | tagihan tinggi | Kontrak 2 thn,39,105.65,Month-to-month,Electronic check,Fiber optic,4,0.59574467,755.2850919127466
+7079-QRCBC,S0: Menengah | tagihan sedang | Kontrak bulanan,24,98.75,Month-to-month,Electronic check,Fiber optic,3,0.6369231,754.7538435459137

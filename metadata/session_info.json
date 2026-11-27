@@ -1,0 +1,26 @@
+{
+  "source_file": "WA_Fn-UseC_-Telco-Customer-Churn (1).csv",
+  "n_rows_raw": 7043,
+  "n_cols_raw": 21,
+  "random_state": 42,
+  "run_timestamp": "2026-11-23T10:36:04",
+  "library_versions": {
+    "python": "3.13.18",
+    "numpy": "2.4.6",
+    "pandas": "2.2.3",
+    "scipy": "1.16.3",
+    "statsmodels": "0.15.0",
+    "scikit-learn": "1.6.1",
+    "matplotlib": "3.10.0",
+    "seaborn": "0.13.2",
+    "plotly": "5.24.1",
+    "joblib": "1.6.0",
+    "shap": "0.54.1",
+    "xgboost": "3.4.1",
+    "kmodes": "0.12.2",
+    "gower": "terpasang",
+    "imblearn": "0.14.2",
+    "yellowbrick": "1.5",
+    "scikit-learn-extra": "terpasang"
+  }
+}

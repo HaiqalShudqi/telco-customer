@@ -1,0 +1,49 @@
+{
+  "best_model": "XGBoost",
+  "best_params": "{'clf__colsample_bytree': np.float64(0.5499874579090014), 'clf__learning_rate': np.float64(0.03958189513876493), 'clf__max_depth': 2, 'clf__min_child_weight': 4, 'clf__n_estimators': 351, 'clf__reg_lambda': np.float64(2.0034427927560734), 'clf__subsample': np.float64(0.6225646316108401)}",
+  "threshold": 0.39000000000000007,
+  "beta": 2.0,
+  "test_metrics": {
+    "@0.5": {
+      "accuracy": 0.7437899219304471,
+      "precision": 0.5109983079526227,
+      "recall": 0.8074866310160428,
+      "f1": 0.6259067357512953,
+      "roc_auc": 0.8474863726781885,
+      "pr_auc": 0.6666217676665807
+    },
+    "@0.39 (F2)": {
+      "accuracy": 0.7054648687012065,
+      "precision": 0.4702467343976778,
+      "recall": 0.8663101604278075,
+      "f1": 0.6095954844778928,
+      "roc_auc": 0.8474863726781885,
+      "pr_auc": 0.6666217676665807
+    }
+  },
+  "bootstrap_ci_95": {
+    "roc_auc": [
+      0.8277652228260387,
+      0.8695373732955413
+    ],
+    "pr_auc": [
+      0.6237675921643017,
+      0.7182883234141008
+    ]
+  },
+  "oof_all_roc_auc": 0.8488840361828899,
+  "oof_all_pr_auc": 0.6644905610900673,
+  "k_final": 3,
+  "final_method": "kmeans",
+  "risk_cutoffs": {
+    "medium": 0.3850337564945221,
+    "high": 0.7429542541503906,
+    "quantiles": [
+      0.5,
+      0.8
+    ]
+  },
+  "value_cutoff": 1078.1999999999998,
+  "value_quantile": 0.75,
+  "random_state": 42
+}

@@ -1,0 +1,22 @@
+﻿variabel,kategori,deskripsi,tipe_asli,n_unique,catatan_kualitas
+customerID,Identifier,ID unik pelanggan. Tidak digunakan sebagai fitur model.,object,7043,"Unik penuh (7.043). Hanya identitas, bukan fitur model."
+gender,Demografi,Jenis kelamin pelanggan (Female/Male).,object,2,Tidak ada masalah ditemukan.
+SeniorCitizen,Demografi,"Apakah pelanggan lansia (1 = ya, 0 = tidak).",int64,2,Bertipe int tetapi bermakna biner; perlakukan sebagai kategorikal.
+Partner,Demografi,Apakah pelanggan memiliki pasangan (Yes/No).,object,2,Tidak ada masalah ditemukan.
+Dependents,Demografi,Apakah pelanggan memiliki tanggungan (Yes/No).,object,2,Tidak ada masalah ditemukan.
+tenure,Akun,Lama berlangganan dalam bulan.,int64,73,"11 pelanggan bernilai 0 (belum pernah ditagih). Distribusi datar, 0 outlier."
+PhoneService,Layanan,Apakah pelanggan memiliki layanan telepon (Yes/No).,object,2,Tidak ada masalah ditemukan.
+MultipleLines,Layanan,Apakah memiliki beberapa jalur telepon (Yes/No/No phone service).,object,3,'No phone service' (682) redundan dengan PhoneService = No.
+InternetService,Layanan,Jenis layanan internet (DSL/Fiber optic/No).,object,3,Tidak ada masalah ditemukan.
+OnlineSecurity,Layanan,Layanan keamanan online (Yes/No/No internet service).,object,3,'No internet service' (1.526) redundan dengan InternetService = No.
+OnlineBackup,Layanan,Layanan backup online (Yes/No/No internet service).,object,3,'No internet service' (1.526) redundan dengan InternetService = No.
+DeviceProtection,Layanan,Proteksi perangkat (Yes/No/No internet service).,object,3,'No internet service' (1.526) redundan dengan InternetService = No.
+TechSupport,Layanan,Dukungan teknis (Yes/No/No internet service).,object,3,'No internet service' (1.526) redundan dengan InternetService = No.
+StreamingTV,Layanan,Layanan streaming TV (Yes/No/No internet service).,object,3,'No internet service' (1.526) redundan dengan InternetService = No.
+StreamingMovies,Layanan,Layanan streaming film (Yes/No/No internet service).,object,3,'No internet service' (1.526) redundan dengan InternetService = No.
+Contract,Akun,Jenis kontrak (Month-to-month/One year/Two year).,object,3,Tidak ada masalah ditemukan.
+PaperlessBilling,Akun,Apakah menggunakan tagihan tanpa kertas (Yes/No).,object,2,Tidak ada masalah ditemukan.
+PaymentMethod,Akun,Metode pembayaran (Electronic check/Mailed check/Bank transfer/Credit card).,object,4,Tidak ada masalah ditemukan.
+MonthlyCharges,Finansial,Tagihan bulanan saat ini.,float64,1585,Tidak ada missing/outlier. Tagihan saat ini; korelasi tinggi dengan TotalCharges.
+TotalCharges,Finansial,Total tagihan selama berlangganan.,object,6531,"Bertipe teks; 11 nilai ' ' (semua tenure=0, Churn=No). Miring kanan (skew 0,96). Korelasi 0,9996 dengan tenure x MonthlyCharges."
+Churn,Target,Apakah pelanggan berhenti berlangganan (Yes/No).,object,2,"Target. 26,54% Yes; rasio kelas 2,77:1 (imbalance sedang)."

@@ -1,2 +1,10 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Berkas biner: jangan diubah (mis. konversi akhir baris) oleh Git
+*.joblib binary
+*.png binary
+*.jpg binary
+# Berkas teks: akhir baris konsisten
+*.py text eol=lf
+*.md text eol=lf
+*.toml text eol=lf
+*.json text eol=lf
+*.csv text eol=lf

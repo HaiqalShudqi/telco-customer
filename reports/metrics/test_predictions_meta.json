@@ -1,0 +1,18 @@
+{
+  "best_model": "XGBoost",
+  "threshold": 0.39000000000000007,
+  "beta": 2.0,
+  "n_test": 1409,
+  "n_test_churn": 374,
+  "test_size": 0.2,
+  "random_state": 42,
+  "models": [
+    "LogReg (tanpa bobot)",
+    "LogReg (balanced)",
+    "LogReg + SMOTE",
+    "Decision Tree",
+    "Random Forest",
+    "Gradient Boosting",
+    "XGBoost"
+  ]
+}
